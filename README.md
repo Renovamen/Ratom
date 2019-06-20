@@ -2,13 +2,6 @@
 
 A RAT which is like an atom. (In fact, it is not :)
 
-
-
-**Disclaimer:**
-
-- **For research purposes only.**
-- **Accessing a computer system or network without authorization or explicit permission is illegal.**
-
 &nbsp;
 
 ## Environment
@@ -23,6 +16,7 @@ Python 2.7
 
 - Cross platform (Windows, Linux, and macOS)
 - Bypass mainstream anti-virus (Bypass all detect engines on [Virus Total](https://www.virustotal.com/))
+- AES-GCM encryption + DH key exchange
 - Executing commands on target
 - Upload & download files to and from target
 - wget & unzip
@@ -134,3 +128,10 @@ pyinstaller --onefile client.py
 ```
 
 Then a `dist/` folder with an executable file in it will be generated.
+
+&nbsp;
+
+## Disclaimer
+
+- **For research purposes only.**
+- **Accessing a computer system or network without authorization or explicit permission is illegal.**
