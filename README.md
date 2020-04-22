@@ -1,6 +1,6 @@
 # Ratom
 
-A RAT which is like an atom. (In fact, it is not :)
+A RAT which is like an atom. (In fact, it is not :) Based on [user696/MrRAT](https://github.com/user696/MrRAT).
 
 &nbsp;
 
